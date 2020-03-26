@@ -1,0 +1,46 @@
+body {
+    background: url("./components/images/logo2.jpg");
+    background-repeat: no-repeat;
+    background-position: center 20px;
+}
+.opct {
+    background-color: white;
+    margin-right: 5px;
+    padding: 5px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center 20px;
+  }
+  .opacity-80 {
+    opacity: 0.8; 
+}
+.container {
+    padding-top: 20px;
+}
+p {
+    margin: 20px;
+    color: black;
+}
+
+.link {
+    color: #000000;
+    margin: 10px;
+}
+
+.url {
+    color: #000000;
+    margin: 20px;
+    align-content: center;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+.card-group {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
